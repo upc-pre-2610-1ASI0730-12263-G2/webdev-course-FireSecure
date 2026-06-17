@@ -1,0 +1,15 @@
+.presentacion {
+  background-color: white;
+  padding: 15px;
+  border-left: 4px solid #1f4e79;
+}
+
+.destacado {
+  font-weight: bold;
+  color: #8a1538;
+}
+
+.lista-hobbies {
+  background-color: #ffffff;
+}
+
