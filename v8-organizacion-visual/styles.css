@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+}
+
+.bloque {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 25px;
+  color: #555;
+}
