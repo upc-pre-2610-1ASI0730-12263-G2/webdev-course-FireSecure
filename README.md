@@ -37,7 +37,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<footer>`
   - Usa `<h1>`, `<h2>`, `<h3>` para encabezados y `<p>` para párrafos
   - Comienza a construir tu página de perfil personal
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 👈 **¡No necesitas registrarte!**
 
 ---
 
@@ -50,7 +50,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Listas sin orden: `<ul>` con `<li>`
   - Listas ordenadas: `<ol>` con `<li>`
   - Divide tu contenido en secciones lógicas
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 👈 **¡Comienza al instante!**
 
 ---
 
@@ -63,7 +63,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Enlaces: `<a href="url">`
   - Imágenes: `<img src="ruta" alt="descripción">`
   - El texto alternativo (alt) es importante para accesibilidad
-- **Práctica**: [Clic para programar](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 👈 **¡No es necesario registrarse!**
 
 ---
 
@@ -76,7 +76,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Regla CSS: `selector { propiedad: valor; }`
   - Estilos para `body`, `h1`, `h2`, `p`, `li`, `img`
   - Prueba cambios constantemente para ver resultados
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) 👈 **¡No es necesario registrarse!**
 
 ---
 
@@ -90,7 +90,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - `max-width` controla el ancho máximo
   - `border` añade bordes a los elementos
   - Crea bloques visuales para mejor organización
-- **Práctica**: [Clic para programar](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter) 👈 **¡Guarda y comparte!**
 
 ---
 
@@ -103,7 +103,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Selector de clase en CSS: `.nombre { ... }`
   - Clases útiles: `presentacion`, `destacado`, para bloques
   - Usa nombres claros y descriptivos para tus clases
-- **Práctica**: [Clic para programar](https://codepen.io/your-lesson7)
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ---
 
@@ -116,7 +116,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Usa clases como `bloque` para estilos consistentes
   - El orden visual importa para la experiencia del usuario
   - El contenido debe fluir de manera lógica
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-lesson8)
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=your-starter)
 
 ---
 
@@ -131,7 +131,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Enlace funcional
   - CSS general para todo el proyecto
   - Revisión y personalización final
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/?template=your-starter) 👈 **¡Guarda y comparte!**
 
 ---
 
@@ -146,7 +146,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
   - Los nombres de clase deben coincidir en HTML y CSS
   - Revisa la sintaxis de CSS (puntos y comas)
   - Usa la lista de revisión final
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 
 ---
 
