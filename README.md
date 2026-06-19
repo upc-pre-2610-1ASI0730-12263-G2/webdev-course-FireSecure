@@ -18,7 +18,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 1: ¿Qué es el desarrollo web? (6-8 minutos)
 
 - **Descripción**: Aprende los conceptos fundamentales del desarrollo web: qué es un sitio web, la diferencia entre frontend y backend, el funcionamiento del DOM, y cómo HTML y CSS trabajan juntos para crear páginas web. Introducción a CodePen como herramienta de práctica.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=l27OHpbSk-o&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=10)
+- **Enlace**: [Ver la lección](https://youtu.be/l27OHpbSk-o)
 - **Consejos clave**:
   - Sitios web = Contenido (HTML) + Estilo (CSS)
   - Frontend = lo que ves, Backend = lo que funciona detrás
@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: Estructura básica de HTML (6-8 minutos)
 
 - **Descripción**: Explora la estructura básica de HTML y crea tu primera página. Aprende sobre etiquetas de apertura y cierre, y la estructura fundamental de todo documento HTML.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=2XdRDJDlRPE&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=9)
+- **Enlace**: [Ver la lección](https://youtu.be/2XdRDJDlRPE)
 - **Consejos clave**:
   - Las etiquetas HTML tienen apertura, contenido y cierre
   - Estructura básica: `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<footer>`
@@ -44,7 +44,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 3: Encabezados, párrafos y listas (6-8 minutos)
 
 - **Descripción**: Aprende a organizar el contenido con jerarquía visual usando encabezados, párrafos descriptivos y listas ordenadas y no ordenadas. Crea las secciones "Sobre mí", "Mis hobbies" y "Mis metas".
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=j4s91iZrrg4&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=8)
+- **Enlace**: [Ver la lección](https://youtu.be/j4s91iZrrg4)
 - **Consejos clave**:
   - Jerarquía visual: `<h1>` > `<h2>` > `<h3>`
   - Listas sin orden: `<ul>` con `<li>`
@@ -57,7 +57,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 4: Imágenes, enlaces y atributos (6-8 minutos)
 
 - **Descripción**: Añade imágenes y enlaces a tu página. Aprende qué son los atributos HTML y cómo usarlos para dar funcionalidad y accesibilidad a tus elementos.
-- **Enlace**: [Ver la lección]([https://studio.youtube.com/video/A6E_BY0qXxc](https://www.youtube.com/watch?v=A6E_BY0qXxc&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=7))
+- **Enlace**: [Ver la lección](https://youtu.be/A6E_BY0qXxc)
 - **Consejos clave**:
   - Los atributos dan información adicional a las etiquetas
   - Enlaces: `<a href="url">`
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 5: Introducción a CSS (6-8 minutos)
 
 - **Descripción**: Dale estilo a tu página. Comprende la diferencia entre contenido (HTML) y apariencia (CSS). Aprende la sintaxis básica de CSS con selectores, propiedades y valores.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=dUxvUnT7HHs&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=6)
+- **Enlace**: [Ver la lección](https://youtu.be/dUxvUnT7HHs)
 - **Consejos clave**:
   - CSS separa el contenido de la apariencia
   - Regla CSS: `selector { propiedad: valor; }`
@@ -83,7 +83,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 6: Estilo simple con CSS (6-8 minutos)
 
 - **Descripción**: Aprende a centrar contenido con `text-align`, controlar espacios con `margin` y `padding`, limitar el ancho con `max-width`, y agregar bordes para mejorar el diseño visual.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=17Ddc7keCRs&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=5)
+- **Enlace**: [Ver la lección](https://youtu.be/17Ddc7keCRs)
 - **Consejos clave**:
   - `text-align: center;` para centrar texto
   - `margin` = espacio exterior, `padding` = espacio interior
@@ -97,7 +97,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 7: Clases en HTML y CSS (6-8 minutos)
 
 - **Descripción**: Aprende a usar clases para aplicar estilos específicos a elementos. Descubre cómo el atributo `class` en HTML y el selector con punto (`.`) en CSS te permiten personalizar partes de tu página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=93NiFgbHRpc&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=4)
+- **Enlace**: [Ver la lección](https://youtu.be/1CAQUT0coDI)
 - **Consejos clave**:
   - Atributo `class` en HTML: `<etiqueta class="nombre">`
   - Selector de clase en CSS: `.nombre { ... }`
@@ -110,7 +110,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 8: Organización visual de la página (6-8 minutos)
 
 - **Descripción**: Estructura tu página en secciones lógicas usando etiquetas semánticas: `<header>`, `<main>`, `<section>`, `<footer>`. Aprende a organizar visualmente el contenido.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=JmC7DaCY9tU&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=3)
+- **Enlace**: [Ver la lección](https://youtu.be/7ezeIGP7fQE)
 - **Consejos clave**:
   - Divide la página en partes: `<header>`, `<main>`, `<section>`, `<footer>`
   - Usa clases como `bloque` para estilos consistentes
@@ -123,7 +123,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 9: Construcción final de la página web (6-8 minutos)
 
 - **Descripción**: Revisión completa del proyecto. Combina todo lo aprendido para crear tu página de perfil personal con estructura HTML completa, estilos CSS, imagen, listas, enlaces y personalización final.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=WgmzqtdLVp0&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=2)
+- **Enlace**: [Ver la lección](https://youtu.be/WgmzqtdLVp0)
 - **Consejos clave**:
   - Estructura final: `<header>`, `<main>`, `<section>`, `<footer>`
   - Imagen con `src` y `alt` correctos
@@ -138,7 +138,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 10: Errores comunes y cierre del curso (6-8 minutos)
 
 - **Descripción**: Aprende a identificar y corregir errores comunes al programar: etiquetas sin cerrar, errores de escritura, atributos incorrectos, problemas con clases, y errores de sintaxis en CSS. Reflexión final del curso.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=XOr-qDB-hvo&list=PLX_N69XXCKoNui1obEH21XGmSJRFEVftF&index=1)
+- **Enlace**: [Ver la lección](https://youtu.be/XOr-qDB-hvo)
 - **Consejos clave**:
   - Revisa siempre que las etiquetas estén cerradas
   - Verifica la escritura correcta de etiquetas y atributos
